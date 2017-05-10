@@ -1,3 +1,3 @@
 # hello-world
 learning
-learning is cool)
+is cool)
